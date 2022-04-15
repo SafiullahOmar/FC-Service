@@ -1,0 +1,9 @@
+D:\FCService\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe.config
+D:\FCService\FCWindowService\FCWindowService\bin\Debug\FCWindowService.exe
+D:\FCService\FCWindowService\FCWindowService\bin\Debug\FCWindowService.pdb
+D:\FCService\FCWindowService\FCWindowService\bin\Debug\itextsharp.dll
+D:\FCService\FCWindowService\FCWindowService\obj\Debug\FCWindowService.ProjectInstaller.resources
+D:\FCService\FCWindowService\FCWindowService\obj\Debug\FCWindowService.csproj.GenerateResource.Cache
+D:\FCService\FCWindowService\FCWindowService\obj\Debug\FCWindowService.exe
+D:\FCService\FCWindowService\FCWindowService\obj\Debug\FCWindowService.pdb
+D:\FCService\FCWindowService\FCWindowService\obj\Debug\FCWindowService.csprojResolveAssemblyReference.cache
